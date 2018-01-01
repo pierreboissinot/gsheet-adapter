@@ -1,6 +1,6 @@
 {
     "name": "pierreboissinot/gsheet-adapter",
-    "description": "Adapter for Google Sheets",
+    "description": "Adapter for Google Sheets - currenty unstable",
     "type": "library",
     "license": "MIT",
     "authors": [
