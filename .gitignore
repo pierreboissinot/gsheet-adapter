@@ -1,0 +1,8 @@
+/composer.lock
+/vendor/
+/.idea/
+/.php_cs.cache
+/quickstart.php
+/quicktest.php
+/composer.phar
+/client_secret.json

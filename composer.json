@@ -1,0 +1,33 @@
+{
+    "name": "pierreboissinot/gsheet-adapter",
+    "description": "Adapter for Google Sheets",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pierre Boissinot",
+            "email": "contact@pierreboissinot.me"
+        }
+    ],
+    "require": {
+        "php": "^7.0",
+        "php-translation/common": "^0.2.3",
+        "google/apiclient": "^2.2",
+        "symfony/translation": "^3.4",
+        "php-translation/symfony-storage": "^0.4.0",
+        "symfony/yaml": "^3.4"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "^6.2",
+      "nyholm/symfony-bundle-test": "^1.2",
+      "php-http/curl-client": "^1.6",
+      "php-http/httplug-bundle": "^1.3",
+      "guzzlehttp/psr7": "^1.3",
+      "php-http/message": "^1.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "Translation\\PlatformAdapter\\Sheet\\": "src/"
+      }
+    }
+}
