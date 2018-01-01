@@ -24,7 +24,7 @@
         "Translation\\PlatformAdapter\\Sheet\\": "src/"
       }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-dist": "true",
     "extra": {
       "branch-alias": {
