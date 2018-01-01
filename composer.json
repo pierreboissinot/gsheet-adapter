@@ -12,8 +12,7 @@
     "require": {
         "php": "^7.0",
         "google/apiclient": "^2.2",
-        "php-translation/common": "^0.2",
-        "php-translation/symfony-storage": "^0.3.3"
+        "php-translation/common": "^0.2"
     },
     "require-dev": {
 
