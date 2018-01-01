@@ -22,7 +22,7 @@
         "Translation\\PlatformAdapter\\Sheet\\": "src/"
       }
     },
-    "minimum-stability": "dev",
+    "version": "0.1.0",
     "extra": {
       "branch-alias": {
         "dev-master": "0.1-dev"
